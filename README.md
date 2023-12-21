@@ -40,6 +40,7 @@ Create .env file and input data with your information:
     DATABASE_USER=
     DATABASE_PASSWORD=
     DATABASE_NAME=
+    DJANGO_TIME_ZONE=
     DJANGO_SECRET_KEY=
 
 If you aren't using a postgresql, then change settings in 
